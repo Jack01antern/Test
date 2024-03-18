@@ -1,2 +1,2 @@
 # Test
-<a href="my55688://member">
+[uri](my55688://member)
